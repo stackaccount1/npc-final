@@ -1,0 +1,4 @@
+SESSION_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ALCHEMY_ID=alchmeykeyhere
+DOMAIN=localhost:3000
+KEY=0x
